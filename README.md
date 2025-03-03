@@ -39,10 +39,6 @@
 - Navegador web moderno (Chrome, Firefox, Edge, Safari).
 - Conexión a Internet (para cargar fuentes de Google Fonts).
 
-## Licencia 📄
-
-Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el archivo [LICENSE](LICENSE).
-
 ---
 
 ¡Gracias por usar **Amigo Secreto**! Esperamos que disfrutes organizando tu sorteo. 🎉
